@@ -1,0 +1,5 @@
+{
+  "apiBaseUrl": "https://graph.facebook.com/v18.0",
+  "backendBaseUrl": "http://localhost:8000",
+  "phoneNumberId": ""
+}
