@@ -240,6 +240,8 @@ Para generar una versión de distribución puedes emplear los comandos estándar
 
 Consulta el archivo [moolah_frontend/README.md](moolah_frontend/README.md) para instrucciones completas.
 
+![arquitectura](architecture.png)
+
 ## Contribución
 
 Sigue estos pasos para preparar el entorno de desarrollo y validar tus cambios:
